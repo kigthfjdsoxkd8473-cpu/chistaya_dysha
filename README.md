@@ -1,2 +1,1 @@
-# chistaya_dysha
 test
